@@ -1,0 +1,9 @@
+FROM phpmentors/symfony-app:php56
+
+ADD ./docker-settings/php.ini /etc/php5/cli
+
+RUN usermod -u 1100 www-data
+RUN useradd -m --uid 1000 -G www-data,root docker
+
+RUN ln -s /var/app/bin/console /usr/local/bin/symfony
+RUN chown -R 1000 /var/app

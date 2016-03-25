@@ -1,0 +1,36 @@
+REVISAR
+Revisar dockerfile-symfony
+
+DOCUMENTACIÓN
+
+_____________________________________________
+
+EDITOR DE TEXTO
+_____________________________________________
+
+SE ESCOGIÓ SUBLIME TEXT 3
+
+SE CONFIGURÓ CON UN TEMA APROPIADO (SETI UI)
+
+SE CREARON SHORCOUTS
+
+_____________________________________________
+
+DOCKER!!!!!!!!!!
+______________________________________________
+
+SE INSTALÓ DOCKER
+
+SE INSTALÓ DOCKER-COMPOSE
+
+SE CONFIGURÓ DOCKER PARA SU USO SIN SUDO
+http://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo
+https://docs.docker.com/engine/installation/linux/ubuntulinux/#create-a-docker-group
+
+SE CONFIGURÓ EL ARCHIVO DOCKER-COMPOSE.YML
+
+SE CONFIGURÓ EL ARCHIVO DOCKERFILE-SYMFONY
+
+SE CREÓ LA CARPETA DOCKERSETTINGS CON PHP.INI
+
+___________________________________________________
